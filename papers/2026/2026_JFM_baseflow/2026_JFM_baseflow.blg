@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: 2026_JFM_baseflow.aux
+The style file: jfm.bst
+Database file #1: ./references.bib
+Warning--I didn't find a database entry for "Batchelor59"
+Warning--I didn't find a database entry for "Rogallo81"
+Warning--I didn't find a database entry for "Dennis85"
+Warning--I didn't find a database entry for "Hwang70"
+Warning--I didn't find a database entry for "Worster92"
+Warning--I didn't find a database entry for "Koch83"
+Warning--I didn't find a database entry for "Lee71"
+Warning--I didn't find a database entry for "Linton92"
+Warning--I didn't find a database entry for "Martin80"
+Warning--I didn't find a database entry for "Brownell04"
+Warning--I didn't find a database entry for "Brownell07"
+Warning--I didn't find a database entry for "Ursell50"
+Warning--I didn't find a database entry for "Wijngaarden68"
+Warning--I didn't find a database entry for "Miller91"
+Warning--I didn't find a database entry for "Briukhanovetal1967"
+Warning--I didn't find a database entry for "Bouguet01"
+Warning--I didn't find a database entry for "JosephSaut1990"
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 1 entry,
+            3068 wiz_defined-function locations,
+            777 strings with 6455 characters,
+and the built_in function-call counts, 494 in all, are:
+= -- 43
+> -- 18
+< -- 1
++ -- 7
+- -- 6
+* -- 49
+:= -- 88
+add.period$ -- 2
+call.type$ -- 1
+change.case$ -- 7
+chr.to.int$ -- 1
+cite$ -- 1
+duplicate$ -- 27
+empty$ -- 40
+format.name$ -- 9
+if$ -- 94
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 9
+num.names$ -- 4
+pop$ -- 6
+preamble$ -- 2
+purify$ -- 6
+quote$ -- 0
+skip$ -- 12
+stack$ -- 0
+substring$ -- 20
+swap$ -- 9
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 9
+warning$ -- 0
+while$ -- 4
+width$ -- 0
+write$ -- 16
+(There were 17 warnings)
