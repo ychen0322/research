@@ -1,9 +1,21 @@
  \newcommand{\noop}[1]{}
-\begin{thebibliography}{1}
+\begin{thebibliography}{5}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \def\au#1{#1} \def\ed#1{#1} \def\yr#1{#1}\def\at#1{#1}\def\jt#1{\textit{#1}} \def\bt#1{#1}\def\bvol#1{\textbf{#1}} \def\vol#1{#1} \def\pg#1{#1} \def\publ#1{#1}\def\arxiv#1{#1}\def\org#1{#1}\def\st#1{\textit{#1}}
 
 \bibitem[Chen \& Scalo(2021)]{2021_ChenScalo_JFM}
 {\sc \au{Chen, Yongkai} \& \au{Scalo, Carlo}} \yr{2021}  \at{Trapped waves in supersonic and hypersonic turbulent channel flow over porous walls}.  \jt{Journal of Fluid Mechanics}  \bvol{920},  \pg{A24}.
+
+\bibitem[Cockburn \& Shu(1998)]{cockburn1998local}
+{\sc \au{Cockburn, Bernardo} \& \au{Shu, Chi-Wang}} \yr{1998}  \at{The local discontinuous galerkin method for time-dependent convection-diffusion systems}.  \jt{SIAM journal on numerical analysis}  \bvol{35}~(6),  \pg{2440--2463}.
+
+\bibitem[Gottlieb(2005)]{gottlieb2005}
+{\sc \au{Gottlieb, Sigal}} \yr{2005}  \at{On high order strong stability preserving runge-kutta and multi step time discretizations}.  \jt{Journal of Scientific Computing}  \bvol{25},  \pg{105--128}.
+
+\bibitem[Huynh(2007)]{huynh2007flux}
+{\sc \au{Huynh, Hung~T}} \yr{2007} A flux reconstruction approach to high-order schemes including discontinuous galerkin methods.  \bt{In {\em 18th AIAA computational fluid dynamics conference\/}},  \pg{p. 4079}.
+
+\bibitem[Rusanov(1962)]{rusanov1962calculation}
+{\sc \au{Rusanov, Vladimir~Vasil’evich}} \yr{1962}  \at{The calculation of the interaction of non-stationary shock waves and obstacles}.  \jt{USSR Computational Mathematics and Mathematical Physics}  \bvol{1}~(2),  \pg{304--320}.
 
 \end{thebibliography}
